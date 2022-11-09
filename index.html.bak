@@ -3,9 +3,11 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <title>Folio Bootstrap Template - Index</title>
-    <meta content="" name="description">
-    <meta content="" name="keywords">
+    <title>Folio and experiences of musician and vocalist</title>
+    <meta content="My works and experiences as a musician and vocalist. All my lifestyle stories are recorded in this folio."
+
+      name="description">
+    <meta content="Musician, Vocalist, Experience,  Folio" name="keywords">
     <!-- Favicons -->
     <link href="assets/img/favicon.png" rel="icon">
     <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
@@ -23,8 +25,11 @@
     <link href="assets/css/style.css" rel="stylesheet">
     <!-- =======================================================
   * Template Name: Folio - v4.9.0  * Template URL: https://bootstrapmade.com/folio-bootstrap-portfolio-template/  * Author: BootstrapMade.com  * License: https://bootstrapmade.com/license/  ======================================================== -->
+    <script type="application/x-javascript"></script>
+    <meta name="author" content="Art Phanuphong">
   </head>
-  <body> <!-- ======= Header ======= -->
+  <body>
+    <!-- ======= Header ======= -->
     <header id="header" class="fixed-top ">
       <div class="container d-flex align-items-center justify-content-between">
         <a href="index.html" class="logo"><img src="assets/img/logo.png" alt=""
@@ -38,7 +43,6 @@
             <li><a class="nav-link scrollto" href="#about">About</a></li>
             <li><a class="nav-link  scrollto" href="#portfolio">Portfolio</a></li>
             <li><a class="nav-link  scrollto" href="#journal">Blog</a></li>
-            
             <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
           </ul>
           <i class="bi bi-list mobile-nav-toggle"></i> </nav>
@@ -72,7 +76,7 @@
           <div class="row justify-content-between">
             <div class="col-lg-4 ">
               <div class="div-img-bg">
-                <div class="about-img"><img src="assets/img/pic3.jpg" alt="me" title="red"></div>
+                <div class="about-img"><img src="assets/img/cont.jpg" alt="me" title="red"></div>
               </div>
             </div>
             <div class="col-lg-7">
